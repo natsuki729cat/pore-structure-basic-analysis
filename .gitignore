@@ -1,0 +1,7 @@
+outputs/
+notebooks/outputs/
+data/*/
+data/**/*.tif
+data/**/*.tiff
+__pycache__/
+.ipynb_checkpoints/
