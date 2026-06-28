@@ -4,3 +4,4 @@ tifffile
 scipy
 scikit-image
 pandas
+porespy
